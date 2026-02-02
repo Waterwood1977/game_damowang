@@ -1,0 +1,13 @@
+
+point.png
+size: 296,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+point
+  rotate: false
+  xy: 2, 2
+  size: 292, 316
+  orig: 292, 316
+  offset: 0, 0
+  index: -1

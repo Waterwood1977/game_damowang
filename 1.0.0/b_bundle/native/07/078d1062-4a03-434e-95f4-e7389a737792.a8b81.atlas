@@ -1,0 +1,146 @@
+
+shine.png
+size: 1224,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shine/fx_shine_1_1
+  rotate: false
+  xy: 132, 71
+  size: 45, 45
+  orig: 51, 51
+  offset: 3, 3
+  index: -1
+shine/fx_shine_1_10
+  rotate: false
+  xy: 968, 137
+  size: 152, 131
+  orig: 158, 138
+  offset: 3, 3
+  index: -1
+shine/fx_shine_1_11
+  rotate: false
+  xy: 2, 118
+  size: 178, 150
+  orig: 182, 154
+  offset: 2, 2
+  index: -1
+shine/fx_shine_1_12
+  rotate: false
+  xy: 813, 139
+  size: 153, 129
+  orig: 158, 134
+  offset: 2, 2
+  index: -1
+shine/fx_shine_1_13
+  rotate: true
+  xy: 655, 2
+  size: 139, 129
+  orig: 145, 135
+  offset: 3, 3
+  index: -1
+shine/fx_shine_1_14
+  rotate: false
+  xy: 340, 2
+  size: 139, 124
+  orig: 145, 130
+  offset: 3, 3
+  index: -1
+shine/fx_shine_1_15
+  rotate: false
+  xy: 935, 15
+  size: 132, 120
+  orig: 137, 124
+  offset: 3, 2
+  index: -1
+shine/fx_shine_1_16
+  rotate: false
+  xy: 2, 3
+  size: 128, 113
+  orig: 135, 120
+  offset: 4, 2
+  index: -1
+shine/fx_shine_1_17
+  rotate: true
+  xy: 1069, 7
+  size: 128, 113
+  orig: 135, 120
+  offset: 4, 2
+  index: -1
+shine/fx_shine_1_18
+  rotate: true
+  xy: 481, 7
+  size: 119, 107
+  orig: 130, 118
+  offset: 5, 6
+  index: -1
+shine/fx_shine_1_19
+  rotate: false
+  xy: 590, 39
+  size: 29, 26
+  orig: 34, 31
+  offset: 3, 2
+  index: -1
+shine/fx_shine_1_2
+  rotate: true
+  xy: 590, 67
+  size: 72, 55
+  orig: 77, 59
+  offset: 3, 2
+  index: -1
+shine/fx_shine_1_20
+  rotate: false
+  xy: 132, 52
+  size: 17, 17
+  orig: 25, 25
+  offset: 4, 4
+  index: -1
+shine/fx_shine_1_3
+  rotate: true
+  xy: 1122, 152
+  size: 116, 100
+  orig: 120, 105
+  offset: 2, 3
+  index: -1
+shine/fx_shine_1_4
+  rotate: false
+  xy: 182, 2
+  size: 145, 121
+  orig: 153, 129
+  offset: 4, 4
+  index: -1
+shine/fx_shine_1_5
+  rotate: false
+  xy: 786, 14
+  size: 147, 123
+  orig: 153, 129
+  offset: 3, 3
+  index: -1
+shine/fx_shine_1_6
+  rotate: false
+  xy: 655, 143
+  size: 156, 125
+  orig: 162, 131
+  offset: 3, 3
+  index: -1
+shine/fx_shine_1_7
+  rotate: false
+  xy: 340, 128
+  size: 155, 140
+  orig: 160, 146
+  offset: 2, 3
+  index: -1
+shine/fx_shine_1_8
+  rotate: false
+  xy: 497, 141
+  size: 156, 127
+  orig: 163, 132
+  offset: 4, 2
+  index: -1
+shine/fx_shine_1_9
+  rotate: false
+  xy: 182, 125
+  size: 156, 143
+  orig: 162, 147
+  offset: 3, 2
+  index: -1
